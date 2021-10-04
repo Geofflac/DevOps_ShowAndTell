@@ -78,6 +78,7 @@ To do so, the first step is to mirror the GitHub repository to the **GOOGLE SOUR
  From there, the **GOOGLE CLOUD BUILD** module need to be activated to trigger an automatic action from a new commit to the App Engine module. For that, a file **cloudbuild.yaml** file is added to the code to run automatically the deploymenet command.\
   \
 ![image](https://user-images.githubusercontent.com/84672157/135811547-9cab741a-0285-40fc-a560-8b7f1059ede5.png)\
+![image](https://user-images.githubusercontent.com/84672157/135815372-838d52cc-ec41-4bdb-9c40-8fb2b35def7a.png)\
   \
 Here is the link for the simplified app deployed : [https://expats-app-github.as.r.appspot.com/logged](https://expats-app-github.as.r.appspot.com/logged).\
   \
