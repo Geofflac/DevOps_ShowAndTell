@@ -44,7 +44,7 @@ Another added feature is **CODACY**. This app is able to check the code quality 
   \
 ![image](https://user-images.githubusercontent.com/91649093/135552614-0d280ed0-aa9b-44ba-bbe3-537b4530549e.png)\
   \
-![image](https://user-images.githubusercontent.com/84672157/135808751-fa81190a-e700-4390-bc61-4b987dfb0308.png)\
+![image](https://user-images.githubusercontent.com/84672157/135808839-b802b167-071d-4c3c-8863-8f6553b540b6.png)\
   \
 There is also a badge that can be put in the README to indicate the code quality of the repository.
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c3ba75c0a0fd4bc987eae871156f7f5d)](https://www.codacy.com/gh/Geofflac/DevOps_ShowAndTell/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Geofflac/DevOps_ShowAndTell&amp;utm_campaign=Badge_Grade)\
