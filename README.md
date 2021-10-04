@@ -37,7 +37,7 @@ The first feature is the greeting for new contributor for on the repository, a n
 <img src="https://user-images.githubusercontent.com/91649093/135459076-6c6963c3-0e7d-44c0-a618-fa64c5396271.png" width="800">
 I use **IFTTT** app as well to link automatically any new commit on the repository to a telegram message on a dedicated chat group.\
   \
-<img src="https://user-images.githubusercontent.com/91649093/135428593-d1a48ae7-20a9-418b-bdd8-1766dcc3b3e2.png" width="400"><img src="https://user-images.githubusercontent.com/91649093/135428710-b6faa798-be59-4425-be01-d711f3c5eccb.png" width="400">
+<img src="https://user-images.githubusercontent.com/91649093/135428593-d1a48ae7-20a9-418b-bdd8-1766dcc3b3e2.png" width="400"><img src="https://user-images.githubusercontent.com/91649093/135428710-b6faa798-be59-4425-be01-d711f3c5eccb.png" width="400">\
 Another added feature is **CODACY**. This app is able to check the code quality for any new commit and pull request. For pull request, Codacy is able to display the issue and even provide recommendation to rectify it.\
   \
 ![image](https://user-images.githubusercontent.com/91649093/135552614-0d280ed0-aa9b-44ba-bbe3-537b4530549e.png)\
