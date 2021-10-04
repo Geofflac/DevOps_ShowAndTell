@@ -1,7 +1,7 @@
 # My DevOps journey
 [Link here](https://geofflac.github.io/DevOps_ShowAndTell/) if you prefer a web page to read this README.md
 ## Introduction
-The plan for this project is to integrate CI/CD features to our workflow.\
+The plan for this project is to integrate CI/CD features to the workflow.\
 This project continue the one started during the PC2 where we built a full stack web app **EXPAT$**. [Link here](https://github.com/Geofflac/Expat-app.git) for the Github repository.\
 Given the time constrain (1 week), and not having prior experience in this field i  use an **AGILE** approached by defining **SPRINTS** to implement few features at a time.\
 The ultimate target for this project is to **learn as much as possible**.
@@ -20,9 +20,9 @@ I put a general view that represent the connection between the different tools a
   \
 ![image](https://user-images.githubusercontent.com/84672157/135807248-77facd62-55f3-4a5e-8480-dd5c7dd2a37c.png)
 ## Sprint 2
-For this sprint, the target is to deploy some web static pages using **GOOGLE CLOUD**. I decided to not choose the full stack application at first to keep it easier at the beginning.
+For this sprint, the target is to deploy some web static pages using **GOOGLE CLOUD**. I decide to not choose the full stack application at first to keep it easier at the beginning.
 To do so, I use **VISUAL STUDIO CODE** to clone the GitHub repository and use the **PULL/PUSH** method to implement code from the local machine to the remote repository.
-To deploy the static website, I followed the following steps : [Hosting static website](https://cloud.google.com/storage/docs/hosting-static-website)
+To deploy the static website, I follow the following steps : [Hosting static website](https://cloud.google.com/storage/docs/hosting-static-website)
 It uses the module **CLOUD STORAGE => BROWSER** from Google cloud. It creates a public bucket where the files are uploaded are made accessible by an URL.
 I deploy :
  - Hello world page for a first test. [https://storage.googleapis.com/hello_world_devops/index.html](https://storage.googleapis.com/hello_world_devops/index.html). 
@@ -31,7 +31,7 @@ Here is the updated general view:\
   \
 ![image](https://user-images.githubusercontent.com/84672157/135807397-c70620ea-2477-4e37-94ae-9d0a6d0c8f85.png)
 ## Sprint 3
-The target for the sprint is to install CI features to our workflow and automate some actions.
+The target for the sprint is to install CI features to the workflow and automate some actions.
 The first feature is the greeting for new contributor for on the repository, a new issue or pull request triggers this **ACTION** (GitHub module) and reply automatically to the person how generate the request.\
   \
 <img src="https://user-images.githubusercontent.com/91649093/135459076-6c6963c3-0e7d-44c0-a618-fa64c5396271.png" width="800">
@@ -55,9 +55,9 @@ Here is the general view updated\
 ![image](https://user-images.githubusercontent.com/84672157/135807600-fa12dd8a-e106-4f8c-87ba-459accce1b81.png)
 ## Sprint 4
 For this print, the target is to deploy this time the full stack node.js app to the cloud.
-To do so, we followed the following tutorial : [Tutorial](https://cloud.google.com/appengine/docs/standard/nodejs/building-app)\
-We created a first test with again hello world : [https://hello-world-app-327706.as.r.appspot.com/](https://hello-world-app-327706.as.r.appspot.com/)\
-I created then a simplified version of the app : [https://expats-app.as.r.appspot.com/logged](https://expats-app.as.r.appspot.com/logged)\
+To do so, I follow the following tutorial : [Tutorial](https://cloud.google.com/appengine/docs/standard/nodejs/building-app)\
+I create a first test with again hello world : [https://hello-world-app-327706.as.r.appspot.com/](https://hello-world-app-327706.as.r.appspot.com/)\
+I create then a simplified version of the app : [https://expats-app.as.r.appspot.com/logged](https://expats-app.as.r.appspot.com/logged)\
   \
 To create this app, the **GOOGLE SDK** is needed to deploy the app from the local machine. A project is also needed to be created on the cloud with the module **APP ENGINE**. The Google SDK is then linked to this project for the deployement\
   \
@@ -69,7 +69,7 @@ To do so, the first step is to mirror the GitHub repository to the **GOOGLE SOUR
   \
 ![image](https://user-images.githubusercontent.com/84672157/135811301-be0750b6-12ba-4449-96e0-e6452175d3ae.png)\
   \
- From there, the GOOGLE CLOUD BUILD module need to be activated to trigger an automatic action from a new commit to the App Engine module. For that, a file **cloudbuild.yaml** file is added to the code to run automatically the deploymenet command.\
+ From there, the **GOOGLE CLOUD BUILD** module need to be activated to trigger an automatic action from a new commit to the App Engine module. For that, a file **cloudbuild.yaml** file is added to the code to run automatically the deploymenet command.\
   \
 ![image](https://user-images.githubusercontent.com/84672157/135811547-9cab741a-0285-40fc-a560-8b7f1059ede5.png)\
   \
