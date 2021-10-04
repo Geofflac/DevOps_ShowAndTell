@@ -45,4 +45,7 @@ The target for the sprint is to install CI features to our workflow and automate
 There is also a badge that can be put in the README to indicate the code quality.
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c3ba75c0a0fd4bc987eae871156f7f5d)](https://www.codacy.com/gh/Geofflac/DevOps_ShowAndTell/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Geofflac/DevOps_ShowAndTell&amp;utm_campaign=Badge_Grade)\
   \
-The strength of those app like Codacy of IFTTT is that NO CODING was required to implement them!
+The strength of those app like Codacy of IFTTT is that NO CODING was required to implement them!\
+Here is the general view updated\
+![image](https://user-images.githubusercontent.com/84672157/135807600-fa12dd8a-e106-4f8c-87ba-459accce1b81.png)
+
