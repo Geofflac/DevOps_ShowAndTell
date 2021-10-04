@@ -18,7 +18,7 @@ The issues in the GitHub repository can be used to if a **GitHub Project** is op
   \
 I put a general view that represent the connection between the different tools at each sprint.\
   \
-![image](https://user-images.githubusercontent.com/91649093/135415301-4c23f372-f416-4577-bedb-290556f2350e.png)
+![image](https://user-images.githubusercontent.com/84672157/135807248-77facd62-55f3-4a5e-8480-dd5c7dd2a37c.png)
   \
 ## Sprint 2
 For this sprint, the target is to deploy some web static pages using **GOOGLE CLOUD**. I decided to not choose the full stack application at first to keep it easier at the beginning.
