@@ -64,6 +64,9 @@ I create then a simplified version of the app : [https://expats-app.as.r.appspot
   \
 To create this app, the **GOOGLE SDK** is needed to deploy the app from the local machine. A project is also needed to be created on the cloud with the module **APP ENGINE**. The Google SDK is then linked to this project for the deployement\
   \
+![image](https://user-images.githubusercontent.com/84672157/135814078-562fa9a3-2bbb-4551-95ea-bb3662212681.png)
+![image](https://user-images.githubusercontent.com/84672157/135814204-b04dceb5-b937-4b9a-9760-3f526d3a4ea6.png)
+  \
 Here is the general view updated\
 ![image](https://user-images.githubusercontent.com/84672157/135809871-9528c294-67b0-4cce-9b39-9a86fb482d98.png)
 ## Sprint 5
