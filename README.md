@@ -32,13 +32,13 @@ Here is the updated general view:\
 ![image](https://user-images.githubusercontent.com/84672157/135807397-c70620ea-2477-4e37-94ae-9d0a6d0c8f85.png)
 ## Sprint 3
 The target for the sprint is to install CI features to our workflow and automate some actions.
- 1. The first feature is the greeting for new contributor for on the repository, a new issue or pull request triggers this **ACTION** (GitHub module) and reply automatically to the person how generate the request.\
+The first feature is the greeting for new contributor for on the repository, a new issue or pull request triggers this **ACTION** (GitHub module) and reply automatically to the person how generate the request.\
   \
 <img src="https://user-images.githubusercontent.com/91649093/135459076-6c6963c3-0e7d-44c0-a618-fa64c5396271.png" width="800">
-2. I use **IFTTT** app as well to link automatically any new commit on the repository to a telegram message on a dedicated chat group.\
+I use **IFTTT** app as well to link automatically any new commit on the repository to a telegram message on a dedicated chat group.\
   \
 <img src="https://user-images.githubusercontent.com/91649093/135428593-d1a48ae7-20a9-418b-bdd8-1766dcc3b3e2.png" width="400"><img src="https://user-images.githubusercontent.com/91649093/135428710-b6faa798-be59-4425-be01-d711f3c5eccb.png" width="400">
-3. Another added feature is **CODACY**. This app is able to check the code quality for any new commit and pull request. For pull request, Codacy is able to display the issue and even provide recommendation to rectify it.\
+Another added feature is **CODACY**. This app is able to check the code quality for any new commit and pull request. For pull request, Codacy is able to display the issue and even provide recommendation to rectify it.\
   \
 ![image](https://user-images.githubusercontent.com/91649093/135552614-0d280ed0-aa9b-44ba-bbe3-537b4530549e.png)\
   \
