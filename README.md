@@ -23,7 +23,10 @@ I put a general view that represent the connection between the different tools a
 For this sprint, the target is to deploy some web static pages using **GOOGLE CLOUD**. I decide to not choose the full stack application at first to keep it easier at the beginning.
 To do so, I use **VISUAL STUDIO CODE** to clone the GitHub repository and use the **PULL/PUSH** method to implement code from the local machine to the remote repository.
 To deploy the static website, I follow the following steps : [Hosting static website](https://cloud.google.com/storage/docs/hosting-static-website)
-It uses the module **CLOUD STORAGE => BROWSER** from Google cloud. It creates a public bucket where the files are uploaded are made accessible by an URL.
+It uses the module **CLOUD STORAGE => BROWSER** from Google cloud. It creates a public bucket where the files are uploaded are made accessible by an URL.\
+  \
+![image](https://user-images.githubusercontent.com/84672157/135813850-afb140f0-10c6-4891-8e0a-b1a6c12520d3.png)\
+  \
 I deploy :
  - Hello world page for a first test. [https://storage.googleapis.com/hello_world_devops/index.html](https://storage.googleapis.com/hello_world_devops/index.html). 
  - The static version of the EXPAT$ app. [https://storage.googleapis.com/expats_static/index.html](https://storage.googleapis.com/expats_static/index.html).\
