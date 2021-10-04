@@ -59,5 +59,11 @@ To do so, we followed the following tutorial : [Tutorial](https://cloud.google.c
 We created a first test with again hello world : [https://hello-world-app-327706.as.r.appspot.com/](https://hello-world-app-327706.as.r.appspot.com/)\
 I created then a simplified version of the app : [https://expats-app.as.r.appspot.com/logged](https://expats-app.as.r.appspot.com/logged)\
   \
-To create this app, the **GOOGLE SDK**, was needed to deploy the app from the local machine. A project was also needed to be created on the cloud with the module **APP ENGINE**
+To create this app, the **GOOGLE SDK**, was needed to deploy the app from the local machine. A project was also needed to be created on the cloud with the module **APP ENGINE**.\
+  \
+Here is the general view updated\
+![image](https://user-images.githubusercontent.com/84672157/135809871-9528c294-67b0-4cce-9b39-9a86fb482d98.png)
+##Sprint 5
+
+
 
