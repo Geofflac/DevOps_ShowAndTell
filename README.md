@@ -35,9 +35,11 @@ The target for the sprint is to install CI features to our workflow and automate
 The first feature is the greeting for new contributor for on the repository, a new issue or pull request triggers this **ACTION** (GitHub module) and reply automatically to the person how generate the request.\
   \
 <img src="https://user-images.githubusercontent.com/91649093/135459076-6c6963c3-0e7d-44c0-a618-fa64c5396271.png" width="800">
+   \
 I use **IFTTT** app as well to link automatically any new commit on the repository to a telegram message on a dedicated chat group.\
   \
 <img src="https://user-images.githubusercontent.com/91649093/135428593-d1a48ae7-20a9-418b-bdd8-1766dcc3b3e2.png" width="400"><img src="https://user-images.githubusercontent.com/91649093/135428710-b6faa798-be59-4425-be01-d711f3c5eccb.png" width="400">\
+  \
 Another added feature is **CODACY**. This app is able to check the code quality for any new commit and pull request. For pull request, Codacy is able to display the issue and even provide recommendation to rectify it.\
   \
 ![image](https://user-images.githubusercontent.com/91649093/135552614-0d280ed0-aa9b-44ba-bbe3-537b4530549e.png)\
@@ -46,6 +48,7 @@ There is also a badge that can be put in the README to indicate the code quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c3ba75c0a0fd4bc987eae871156f7f5d)](https://www.codacy.com/gh/Geofflac/DevOps_ShowAndTell/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Geofflac/DevOps_ShowAndTell&amp;utm_campaign=Badge_Grade)\
   \
 The strength of those app like Codacy of IFTTT is that NO CODING was required to implement them!\
+  \
 Here is the general view updated\
 ![image](https://user-images.githubusercontent.com/84672157/135807600-fa12dd8a-e106-4f8c-87ba-459accce1b81.png)
 
