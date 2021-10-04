@@ -53,4 +53,11 @@ The strength of those app like Codacy of IFTTT is that NO CODING was required to
   \
 Here is the general view updated\
 ![image](https://user-images.githubusercontent.com/84672157/135807600-fa12dd8a-e106-4f8c-87ba-459accce1b81.png)
+## Sprint 4
+For this print, the target is to deploy this time the full stack node.js app to the cloud.
+To do so, we followed the following tutorial : [Tutorial](https://cloud.google.com/appengine/docs/standard/nodejs/building-app)\
+We created a first test with again hello world : [https://hello-world-app-327706.as.r.appspot.com/](https://hello-world-app-327706.as.r.appspot.com/)\
+I created then a simplified version of the app : [https://expats-app.as.r.appspot.com/logged](https://expats-app.as.r.appspot.com/logged)\
+  \
+To create this app, the **GOOGLE SDK**, was needed to deploy the app from the local machine. A project was also needed to be created on the cloud with the module **APP ENGINE**
 
