@@ -73,8 +73,10 @@ To do so, the first step is to mirror the GitHub repository to the **GOOGLE SOUR
   \
 ![image](https://user-images.githubusercontent.com/84672157/135811547-9cab741a-0285-40fc-a560-8b7f1059ede5.png)\
   \
-
-
+Here is the link for the simplified app deployed : [https://expats-app-github.as.r.appspot.com/logged](https://expats-app-github.as.r.appspot.com/logged).\
+  \
+Here is the updated general view :\
+![image](https://user-images.githubusercontent.com/84672157/135812277-63f42879-a718-4c90-8cb5-8ca5deae84ab.png)
 
 
 
