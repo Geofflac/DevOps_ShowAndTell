@@ -26,7 +26,7 @@ To deploy the static website, I followed the following steps : [Hosting static w
 It uses the module **CLOUD STORAGE => BROWSER** from Google cloud. It creates a public bucket where the files are uploaded are made accessible by an URL.
 I deploy :
  - Hello world page for a first test. [https://storage.googleapis.com/hello_world_devops/index.html](https://storage.googleapis.com/hello_world_devops/index.html). 
- - The static version of the EXPAT$ app. [https://storage.googleapis.com/expats_static/index.html](https://storage.googleapis.com/expats_static/index.html)
+ - The static version of the EXPAT$ app. [https://storage.googleapis.com/expats_static/index.html](https://storage.googleapis.com/expats_static/index.html).\
 Here is the updated general view:\
   \
 ![image](https://user-images.githubusercontent.com/84672157/135807397-c70620ea-2477-4e37-94ae-9d0a6d0c8f85.png)
