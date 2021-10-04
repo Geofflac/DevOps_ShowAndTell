@@ -19,7 +19,6 @@ The issues in the GitHub repository can be used to if a **GitHub Project** is op
 I put a general view that represent the connection between the different tools at each sprint.\
   \
 ![image](https://user-images.githubusercontent.com/84672157/135807248-77facd62-55f3-4a5e-8480-dd5c7dd2a37c.png)
-  \
 ## Sprint 2
 For this sprint, the target is to deploy some web static pages using **GOOGLE CLOUD**. I decided to not choose the full stack application at first to keep it easier at the beginning.
 To do so, I use **VISUAL STUDIO CODE** to clone the GitHub repository and use the **PULL/PUSH** method to implement code from the local machine to the remote repository.
@@ -30,8 +29,7 @@ I deploy :
  - The static version of the EXPAT$ app. [https://storage.googleapis.com/expats_static/index.html](https://storage.googleapis.com/expats_static/index.html)
 Here is the updated general view:\
   \
-![image](https://user-images.githubusercontent.com/91649093/135418456-582464c3-38f1-4f7e-8b5d-c3a7ef23bbf4.png)
-  \
+![image](https://user-images.githubusercontent.com/84672157/135807397-c70620ea-2477-4e37-94ae-9d0a6d0c8f85.png)
 ## Sprint 3
 The target for the sprint is to install CI features to our workflow and automate some actions.
  1. The first feature is the greeting for new contributor for on the repository, a new issue or pull request triggers this **ACTION** (GitHub module) and reply automatically to the person how generate the request.\
