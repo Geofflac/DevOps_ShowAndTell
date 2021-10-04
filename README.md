@@ -59,11 +59,22 @@ To do so, we followed the following tutorial : [Tutorial](https://cloud.google.c
 We created a first test with again hello world : [https://hello-world-app-327706.as.r.appspot.com/](https://hello-world-app-327706.as.r.appspot.com/)\
 I created then a simplified version of the app : [https://expats-app.as.r.appspot.com/logged](https://expats-app.as.r.appspot.com/logged)\
   \
-To create this app, the **GOOGLE SDK**, was needed to deploy the app from the local machine. A project was also needed to be created on the cloud with the module **APP ENGINE**.\
+To create this app, the **GOOGLE SDK** is needed to deploy the app from the local machine. A project is also needed to be created on the cloud with the module **APP ENGINE**. The Google SDK is then linked to this project for the deployement\
   \
 Here is the general view updated\
 ![image](https://user-images.githubusercontent.com/84672157/135809871-9528c294-67b0-4cce-9b39-9a86fb482d98.png)
-##Sprint 5
+## Sprint 5
+Foo this print, the target is to auto deploy the app to Google Cloud by a new commit to the Github Repository. I got most of the informations from this tutorial : [Tutorial](https://medium.com/swlh/deploying-github-repository-to-google-cloud-platform-997d296547e6).\
+To do so, the first step is to mirror the GitHub repository to the **GOOGLE SOURCE REPOSITORY**.\
+  \
+![image](https://user-images.githubusercontent.com/84672157/135811301-be0750b6-12ba-4449-96e0-e6452175d3ae.png)\
+  \
+ From there, the GOOGLE CLOUD BUILD module need to be activated to trigger an automatic action from a new commit to the App Engine module. For that, a file **cloudbuild.yaml** file is added to the code to run automatically the deploymenet command.\
+  \
+![image](https://user-images.githubusercontent.com/84672157/135811547-9cab741a-0285-40fc-a560-8b7f1059ede5.png)\
+  \
+
+
 
 
 
